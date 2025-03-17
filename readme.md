@@ -1,87 +1,10 @@
-# electron-boilerplate
-
-> Boilerplate to kickstart creating an app with [Electron](https://github.com/electron/electron)
-
-See [awesome-electron](https://github.com/sindresorhus/awesome-electron) for more useful Electron resources.
-
-See [Caprine](https://github.com/sindresorhus/caprine) for a production app based on this boilerplate.
+# Os zygomaticum bipartitum
 
 
-## Features
+> Os zygomaticum bipartitum (OZB; also known as Os japonicum) is a cranial nonmetric trait characterized by the division of the zygomatic bone into two or more segments (Figure 1 ). This study presents a comprehensive review of OZB, drawing from the literature to clarify morphological variability and population incidence. The goals of this study include:
+Development of standardized line drawings to illustrate the character states of OZB; and,
+Analyze the relationship between Os zygomaticum bipartitum, age, biological sex, and population affinity using the worldwide dataset freely provided by Ossenberg (1970).
+This research contributes to bioarchaeology, forensic anthropology, and comparative anatomy by refining OZB classification systems, enhancing data collection consistency for data sharing and data analysis, and by providing frequency distribution data and inter-trait correlation coefficients. These data, along with the more nuanced understanding of the ontogenetic development of OZB we provide, build from previous work in the MSU MaMD Laboratory examining classification schemes and the growth & development of a graphic library for interparietal bones. 
 
-- [`electron-builder`](https://www.electron.build) fully set up to create cross-platform builds
-- [Builds the app on Travis](https://www.electron.build/multi-platform-build.html)
-- [Silent auto-updates](https://www.electron.build/auto-update.html)
-- App menu that adheres to the system user interface guidelines
-- [Config handling](https://github.com/sindresorhus/electron-store)
-- [Context menu](https://github.com/sindresorhus/electron-context-menu)
-- [User-friendly handling of unhandled errors](https://github.com/sindresorhus/electron-unhandled)
-- Easily publish new versions to GitHub Releases
-- And much more!
+![image](https://github.com/user-attachments/assets/b12b66df-c169-4b47-9328-ec8d054c5bc7)
 
-
-## Getting started
-
-**Click the "Use this template" button.**
-
-Alternatively, create a new directory and then run:
-
-```
-$ curl -fsSL https://github.com/sindresorhus/electron-boilerplate/archive/master.tar.gz | tar -xz --strip-components 1
-```
-
-There's also a [Yeoman generator](https://github.com/sindresorhus/generator-electron).
-
-
----
-
-**Remove everything from here and above**
-
----
-
-
-# App Name
-
-> The best app ever
-
-
-## Install
-
-*macOS 10.10+, Linux, and Windows 7+ are supported (64-bit only).*
-
-**macOS**
-
-[**Download**](https://github.com/user/repo/releases/latest) the `.dmg` file.
-
-**Linux**
-
-[**Download**](https://github.com/user/repo/releases/latest) the `.AppImage` or `.deb` file.
-
-*The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
-
-**Windows**
-
-[**Download**](https://github.com/user/repo/releases/latest) the `.exe` file.
-
-
----
-
-
-## Dev
-
-Built with [Electron](https://electronjs.org).
-
-### Run
-
-```
-$ npm install
-$ npm start
-```
-
-### Publish
-
-```
-$ npm run release
-```
-
-After Travis finishes building your app, open the release draft it created and click "Publish".
